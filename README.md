@@ -1,4 +1,6 @@
 # Solunar-24h-clock
+![solunar app screen](https://s3.amazonaws.com/www.imipolex-g.com/screenshots/solunar_clock_screenshot.png "Screen")
+
 A 24-hour clock on your iPhone that graphically shows the Sun and Moon rise/set times. Times derived from the United States Naval Observatory public Astronomical Applications web service. Choose your own typeface for the UI- I'm not able to include my cool Eurostile commercial font.
 
 https://aa.usno.navy.mil/data/docs/api.php#rstt
